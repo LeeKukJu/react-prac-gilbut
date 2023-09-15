@@ -1,9 +1,9 @@
 import './App.css';
-import TodoApp from './todo-app/TodoApp';
+import RouterApp from './router-prac/RouterApp';
 
 function App() {
   return (
-    <TodoApp/>
+    <RouterApp/>
   );
 }
 
